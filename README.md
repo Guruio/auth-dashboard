@@ -1,3 +1,10 @@
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 # 🔐 Authentication Dashboard (Frontend)
 
 A responsive React frontend for a Full Stack Authentication System. The application allows users to register, log in securely, and access protected pages using JWT authentication.
