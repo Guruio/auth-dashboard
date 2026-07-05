@@ -29,7 +29,11 @@ A responsive React frontend for a Full Stack Authentication System. The applicat
 
 ## 📸 Screenshots
 
-> Add screenshots here
+><img width="1919" height="909" alt="Screenshot 2026-07-05 083843" src="https://github.com/user-attachments/assets/ca0008da-825a-41e7-82f1-4f1fbef1f0ad" />
+
+><img width="1919" height="911" alt="Screenshot 2026-07-05 084059" src="https://github.com/user-attachments/assets/c9ebdcd2-5573-459e-982f-b848cd93479e" />
+><img width="1919" height="909" alt="Screenshot 2026-07-05 084119" src="https://github.com/user-attachments/assets/14e73105-c73a-4bee-8264-2e1c269da52d" />
+
 
 ---
 
