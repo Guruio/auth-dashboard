@@ -1,16 +1,74 @@
-# React + Vite
+# 🔐 Authentication Dashboard (Frontend)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive React frontend for a Full Stack Authentication System. The application allows users to register, log in securely, and access protected pages using JWT authentication.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- User Registration
+- Secure Login
+- JWT Authentication
+- Protected Routes
+- Responsive Design
+- Form Validation
+- API Integration
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- JavaScript (ES6+)
+- React Router
+- CSS3
+- Axios
+- Vite
+
+---
+
+## 📸 Screenshots
+
+> Add screenshots here
+
+---
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/Guruio/auth-dashboard.git
+
+cd auth-dashboard
+
+npm install
+
+npm run dev
+```
+
+---
+
+## 🌐 Live Demo
+
+https://guruio.github.io/auth-dashboard/
+
+---
+
+## 🔗 Backend Repository
+
+https://github.com/Guruio/auth-backend
+
+---
+
+## 🔮 Future Improvements
+
+- Forgot Password
+- Email Verification
+- OAuth Login
+- User Profile
+- Dark Mode
+
+---
+
+## 👨‍💻 Author
+
+Guru Prakash
